@@ -12,3 +12,10 @@
 </div>
 <hr>
 <p>Apaixonado por técnologia, ensinar e mudar a vida das pessoas através da programação. 😃</p>
+
+
+<h3>Commits Recentes:</h3>
+<ol>
+  <li>Orange(28/12/2021): https://github.com/Otavio19/Orange 🍊</li>
+  <li>Landing Page(28/12/2021): https://github.com/Otavio19/Av-Arcondicinado-LP 🎞️</li>
+</ol>
