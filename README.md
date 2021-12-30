@@ -16,6 +16,7 @@
 
 <h3>Commits Recentes:</h3>
 <ol>
+  <li>Calculadora(30/12/2021): https://github.com/Otavio19/Calculadora 🧮</li>
   <li>Orange(28/12/2021): https://github.com/Otavio19/Orange 🍊</li>
   <li>Landing Page(28/12/2021): https://github.com/Otavio19/Av-Arcondicinado-LP 🎞️</li>
 </ol>
