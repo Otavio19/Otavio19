@@ -11,7 +11,7 @@
 <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 <hr>
-<p>Apaixonado por técnologia, ensinar e mudar a vida das pessoas através da programação. 😃</p>
+<p>Apaixonado por programação, ensinar e mudar a vida das pessoas através da técnologia. 😃</p>
 
 
 <h3>Commits Recentes:</h3>
