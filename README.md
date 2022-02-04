@@ -16,6 +16,7 @@
 
 <h3>Commits Recentes:</h3>
 <ol>
+  <li>Netflix(04/02/2022): https://github.com/Otavio19/NetflixEstilo 🎞️</li>
   <li>Av-Arcondicionado(28/01/2022): https://github.com/Otavio19/AvArcondicionado2/blob/main/README.md ❄️</li>
   <li>Anotações(11/01/2022): https://github.com/Otavio19/Anotacoes 📝</li>
   <li>Calculadora(30/12/2021): https://github.com/Otavio19/Calculadora 🧮</li>
