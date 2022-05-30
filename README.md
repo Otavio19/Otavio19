@@ -16,9 +16,9 @@
 
 <h3>Commits Recentes:</h3>
 <ol>
+  <li> <a href="https://github.com/Otavio19/Estoque">Estoque (30/05/2022) ♻️</a>
 <li><a href="https://github.com/Otavio19/NetflixEstilo">Netflix (04/02/2022) 🎞️</a></li>
 <li><a href="https://github.com/Otavio19/AvArcondicionado2/blob/main/README.md">Av-Arcondicionado (28/01/2022) ❄️</a></li>
 <li><a href="https://github.com/Otavio19/Anotacoes">Anotações (11/01/2022) 📝</a></li>
 <li><a href="https://github.com/Otavio19/Calculadora">Calculadora (30/12/2021) 🧮</a></li>
-<li><a href="https://github.com/Otavio19/Orange">Orange (28/12/2021) 🍊</a></li>
 </ol>
